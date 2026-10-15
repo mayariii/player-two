@@ -6,6 +6,10 @@ When a conversation gets long, understanding what the agent is doing can mean sc
 
 Chat stays central. Around it, the HUD keeps recent activity, decisions and current execution visible. The agent can update the mission as its understanding evolves, propose decisions for you to confirm, and leave suggested next steps. You can follow command status, respond to permission requests, steer the conversation and stop work.
 
+https://github.com/user-attachments/assets/105b2270-f9c1-4938-8ef4-e49f96da5e36
+
+https://github.com/user-attachments/assets/11600593-1525-4d27-9d62-e9c05e564083
+
 ## Run locally
 
 Tested on macOS with Node 20.20.0 and Codex CLI 0.159.2. Install the Codex CLI separately and make sure `codex` is on your PATH. From this repository:
