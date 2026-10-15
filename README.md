@@ -2,8 +2,6 @@
 
 Initial thought doodles [here](https://www.tldraw.com/f/Isz1U_UwXu8DBmoO5NBtr?d=v9479.-1591.9131.5114.page)
 
-https://github.com/user-attachments/assets/11600593-1525-4d27-9d62-e9c05e564083
-
 A local, game-inspired chat interface for Codex, exploring human oversight of coding agents.
 
 When a conversation gets long, understanding what the agent is doing can mean scrolling back through it. Player Two explores whether a small HUD can help you return to a task and see what happened, what the goal is, and what needs your input.
