@@ -1,0 +1,10 @@
+node_modules/
+.svelte-kit/
+build/
+.env
+.player-two/
+test-results/
+
+.DS_Store
+.env.*
+!.env.example
