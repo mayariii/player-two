@@ -60,9 +60,7 @@ The server starts `codex app-server`, sends user actions and streams observed st
 
 Confirming a decision sends a message back to the agent. Permission approvals use a separate App Server channel. A proposed decision is not an enforced execution gate, and a finished response does not establish that the goal was achieved.
 
-## Scope and verification
-
-This is a prototype with one active chat per server. It runs locally without multi-user authentication and stores conversations in `.player-two/`, which should stay private. Closing the browser does not stop agent work. It depends on an experimental App Server protocol; other platforms and CLI versions have not been verified.
+## Development
 
 ```sh
 npm run check
@@ -70,6 +68,4 @@ npm test
 npm run build
 ```
 
-The last recorded checks passed with 26 tests, zero Svelte errors/warnings and a successful build.
-
-Whether the HUD actually reduces rereading still needs user testing.
+This prototype supports one active chat per server and uses the experimental Codex App Server API. Closing the browser does not stop the agent. Local conversations are stored in `.player-two/`; keep this folder private.
