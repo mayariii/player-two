@@ -1,6 +1,6 @@
 # Player Two
 
-Initial thought doodles [here](https://github.com/user-attachments/assets/105b2270-f9c1-4938-8ef4-e49f96da5e36)
+Initial thought doodles [here](https://www.tldraw.com/f/Isz1U_UwXu8DBmoO5NBtr?d=v9479.-1591.9131.5114.page)
 
 https://github.com/user-attachments/assets/11600593-1525-4d27-9d62-e9c05e564083
 
