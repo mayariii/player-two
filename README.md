@@ -12,8 +12,6 @@ Chat stays central. Around it, the HUD keeps recent activity, decisions and curr
 
 https://github.com/user-attachments/assets/105b2270-f9c1-4938-8ef4-e49f96da5e36
 
-https://github.com/user-attachments/assets/11600593-1525-4d27-9d62-e9c05e564083
-
 - Mission: the current goal, updated by the agent as the conversation evolves, with earlier versions in History.
 - Recent activity: commands and file changes, so you can follow what has happened.
 - Now: the current execution state and anything needing your input.
