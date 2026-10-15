@@ -1,5 +1,9 @@
 # Player Two
 
+Initial thought doodles [here](https://github.com/user-attachments/assets/105b2270-f9c1-4938-8ef4-e49f96da5e36)
+
+https://github.com/user-attachments/assets/11600593-1525-4d27-9d62-e9c05e564083
+
 A local, game-inspired chat interface for Codex, exploring human oversight of coding agents.
 
 When a conversation gets long, understanding what the agent is doing can mean scrolling back through it. Player Two explores whether a small HUD can help you return to a task and see what happened, what the goal is, and what needs your input.
