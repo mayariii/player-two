@@ -14,6 +14,12 @@ https://github.com/user-attachments/assets/105b2270-f9c1-4938-8ef4-e49f96da5e36
 
 https://github.com/user-attachments/assets/11600593-1525-4d27-9d62-e9c05e564083
 
+- Mission: the current goal, updated by the agent as the conversation evolves, with earlier versions in History.
+- Recent activity: commands and file changes, so you can follow what has happened.
+- Now: the current execution state and anything needing your input.
+- Decisions: the agent proposes a choice and rationale. **Confirm & send** sends your choice back into the conversation so the agent can act on it.
+- Permission requests: approve or decline actions separately from proposed decisions.
+
 ## Run locally
 
 Tested on macOS with Node 20.20.0 and Codex CLI 0.159.2. Install the Codex CLI separately and make sure `codex` is on your PATH. From this repository:
