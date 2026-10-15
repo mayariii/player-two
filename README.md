@@ -18,7 +18,6 @@ https://github.com/user-attachments/assets/11600593-1525-4d27-9d62-e9c05e564083
 - Recent activity: commands and file changes, so you can follow what has happened.
 - Now: the current execution state and anything needing your input.
 - Decisions: the agent proposes a choice and rationale. **Confirm & send** sends your choice back into the conversation so the agent can act on it.
-- Permission requests: approve or decline actions separately from proposed decisions.
 
 ## Run locally
 
