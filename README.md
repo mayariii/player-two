@@ -16,7 +16,7 @@ npm ci
 npm run dev
 ```
 
-Open the URL printed by Vite, normally `http://127.0.0.1:5173`. `127.0.0.1` is localhost: this address opens the app on your own computer. To try it, someone else needs to run their own copy. It is not a hosted demo.
+Open `http://localhost:5173`, or the URL printed by Vite. The app runs locally on your computer.
 
 Choose **New chat**, select a project folder, review the permissions and send a message. Player Two uses your existing Codex account and configuration. Model calls require network access and use your account's allowance.
 
